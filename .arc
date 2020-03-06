@@ -1,8 +1,10 @@
 @app
-begin-app
+pizza-6ad
+
+@static
 
 @http
-get  /todos
+get /todos
 post /todos
 post /todos/delete
 
